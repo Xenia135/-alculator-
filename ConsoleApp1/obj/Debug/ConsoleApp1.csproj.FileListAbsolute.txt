@@ -1,0 +1,40 @@
+D:\Прога\ПИС\Лабораторная работа 6\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Прога\ПИС\Лабораторная работа 6\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Прога\ПИС\Лабораторная работа 6\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Прога\ПИС\Лабораторная работа 6\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Прога\ПИС\Лабораторная работа 6\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\Прога\ПИС\Лабораторная работа 6\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Прога\ПИС\Лабораторная работа 6\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Прога\ПИС\Лабораторная работа 6\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Прога\ПИС\Laba 6\l6\Lab6\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Прога\ПИС\Laba 6\l6\Lab6\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Прога\ПИС\Laba 6\l6\Lab6\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Прога\ПИС\Laba 6\l6\Lab6\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Прога\ПИС\Laba 6\l6\Lab6\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\Прога\ПИС\Laba 6\l6\Lab6\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Прога\ПИС\Laba 6\l6\Lab6\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Прога\ПИС\Laba 6\l6\Lab6\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Егор\Desktop\l6\Lab6\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Егор\Desktop\l6\Lab6\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Егор\Desktop\l6\Lab6\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Егор\Desktop\l6\Lab6\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Егор\Desktop\l6\Lab6\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Егор\Desktop\l6\Lab6\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\l6\Lab6\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Егор\Desktop\l6\Lab6\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Учёба\4 семестр\ПИС\Лаб 6\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Учёба\4 семестр\ПИС\Лаб 6\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Учёба\4 семестр\ПИС\Лаб 6\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Учёба\4 семестр\ПИС\Лаб 6\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Учёба\4 семестр\ПИС\Лаб 6\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\Учёба\4 семестр\ПИС\Лаб 6\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Учёба\4 семестр\ПИС\Лаб 6\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Учёба\4 семестр\ПИС\Лаб 6\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,92 @@
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\CalcTest\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\CalcTest\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\CalcTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\CalcTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\CalcTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\CalcTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\CalcTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\CalcTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\CalcTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\CalcTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\CalcTest\bin\Debug\CalcTest.dll
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\CalcTest\bin\Debug\CalcTest.pdb
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\CalcTest\bin\Debug\CalcLibrary.dll
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\CalcTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\CalcTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\CalcTest\bin\Debug\CalcLibrary.pdb
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\CalcTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\CalcTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\CalcTest\obj\Debug\CalcTest.csproj.AssemblyReference.cache
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\CalcTest\obj\Debug\CalcTest.csproj.CoreCompileInputs.cache
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\CalcTest\obj\Debug\CalcTest.csproj.CopyComplete
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\CalcTest\obj\Debug\CalcTest.dll
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\CalcTest\obj\Debug\CalcTest.pdb
+D:\Прога\ПИС\Laba 6\l6\Lab6\CalcTest\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Прога\ПИС\Laba 6\l6\Lab6\CalcTest\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Прога\ПИС\Laba 6\l6\Lab6\CalcTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Прога\ПИС\Laba 6\l6\Lab6\CalcTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Прога\ПИС\Laba 6\l6\Lab6\CalcTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Прога\ПИС\Laba 6\l6\Lab6\CalcTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Прога\ПИС\Laba 6\l6\Lab6\CalcTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Прога\ПИС\Laba 6\l6\Lab6\CalcTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Прога\ПИС\Laba 6\l6\Lab6\CalcTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Прога\ПИС\Laba 6\l6\Lab6\CalcTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Прога\ПИС\Laba 6\l6\Lab6\CalcTest\bin\Debug\CalcTest.dll
+D:\Прога\ПИС\Laba 6\l6\Lab6\CalcTest\bin\Debug\CalcTest.pdb
+D:\Прога\ПИС\Laba 6\l6\Lab6\CalcTest\bin\Debug\CalcLibrary.dll
+D:\Прога\ПИС\Laba 6\l6\Lab6\CalcTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Прога\ПИС\Laba 6\l6\Lab6\CalcTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Прога\ПИС\Laba 6\l6\Lab6\CalcTest\bin\Debug\CalcLibrary.pdb
+D:\Прога\ПИС\Laba 6\l6\Lab6\CalcTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Прога\ПИС\Laba 6\l6\Lab6\CalcTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Прога\ПИС\Laba 6\l6\Lab6\CalcTest\obj\Debug\CalcTest.csproj.AssemblyReference.cache
+D:\Прога\ПИС\Laba 6\l6\Lab6\CalcTest\obj\Debug\CalcTest.csproj.CoreCompileInputs.cache
+D:\Прога\ПИС\Laba 6\l6\Lab6\CalcTest\obj\Debug\CalcTest.csproj.CopyComplete
+D:\Прога\ПИС\Laba 6\l6\Lab6\CalcTest\obj\Debug\CalcTest.dll
+D:\Прога\ПИС\Laba 6\l6\Lab6\CalcTest\obj\Debug\CalcTest.pdb
+D:\Учёба\4 семестр\ПИС\Лаб 6\CalcTest\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Учёба\4 семестр\ПИС\Лаб 6\CalcTest\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Учёба\4 семестр\ПИС\Лаб 6\CalcTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Учёба\4 семестр\ПИС\Лаб 6\CalcTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Учёба\4 семестр\ПИС\Лаб 6\CalcTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Учёба\4 семестр\ПИС\Лаб 6\CalcTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Учёба\4 семестр\ПИС\Лаб 6\CalcTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Учёба\4 семестр\ПИС\Лаб 6\CalcTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Учёба\4 семестр\ПИС\Лаб 6\CalcTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Учёба\4 семестр\ПИС\Лаб 6\CalcTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Учёба\4 семестр\ПИС\Лаб 6\CalcTest\bin\Debug\CalcTest.dll
+D:\Учёба\4 семестр\ПИС\Лаб 6\CalcTest\bin\Debug\CalcTest.pdb
+D:\Учёба\4 семестр\ПИС\Лаб 6\CalcTest\bin\Debug\CalcLibrary.dll
+D:\Учёба\4 семестр\ПИС\Лаб 6\CalcTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Учёба\4 семестр\ПИС\Лаб 6\CalcTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Учёба\4 семестр\ПИС\Лаб 6\CalcTest\bin\Debug\CalcLibrary.pdb
+D:\Учёба\4 семестр\ПИС\Лаб 6\CalcTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Учёба\4 семестр\ПИС\Лаб 6\CalcTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Учёба\4 семестр\ПИС\Лаб 6\CalcTest\obj\Debug\CalcTest.csproj.AssemblyReference.cache
+D:\Учёба\4 семестр\ПИС\Лаб 6\CalcTest\obj\Debug\CalcTest.csproj.CoreCompileInputs.cache
+D:\Учёба\4 семестр\ПИС\Лаб 6\CalcTest\obj\Debug\CalcTest.csproj.CopyComplete
+D:\Учёба\4 семестр\ПИС\Лаб 6\CalcTest\obj\Debug\CalcTest.dll
+D:\Учёба\4 семестр\ПИС\Лаб 6\CalcTest\obj\Debug\CalcTest.pdb
+D:\пис\6\CalcTest\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\пис\6\CalcTest\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\пис\6\CalcTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\пис\6\CalcTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\пис\6\CalcTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\пис\6\CalcTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\пис\6\CalcTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\пис\6\CalcTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\пис\6\CalcTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\пис\6\CalcTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\пис\6\CalcTest\bin\Debug\CalcTest.dll
+D:\пис\6\CalcTest\bin\Debug\CalcTest.pdb
+D:\пис\6\CalcTest\bin\Debug\CalcLibrary.dll
+D:\пис\6\CalcTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\пис\6\CalcTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\пис\6\CalcTest\bin\Debug\CalcLibrary.pdb
+D:\пис\6\CalcTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\пис\6\CalcTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\пис\6\CalcTest\obj\Debug\CalcTest.csproj.AssemblyReference.cache
+D:\пис\6\CalcTest\obj\Debug\CalcTest.csproj.CoreCompileInputs.cache
+D:\пис\6\CalcTest\obj\Debug\CalcTest.csproj.CopyComplete
+D:\пис\6\CalcTest\obj\Debug\CalcTest.dll
+D:\пис\6\CalcTest\obj\Debug\CalcTest.pdb
