@@ -1,0 +1,162 @@
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\WPFProject\bin\Debug\WPFProject.exe.config
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\WPFProject\bin\Debug\WPFProject.exe
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\WPFProject\bin\Debug\WPFProject.pdb
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\WPFProject\bin\Debug\CalcLibrary.dll
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\WPFProject\bin\Debug\CalcLibrary.pdb
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\WPFProject\obj\Debug\WPFProject.csproj.AssemblyReference.cache
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\WPFProject\obj\Debug\WPFProject.csproj.SuggestedBindingRedirects.cache
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\WPFProject\obj\Debug\MainWindow.g.cs
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\WPFProject\obj\Debug\App.g.cs
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\WPFProject\obj\Debug\WPFProject_MarkupCompile.cache
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\WPFProject\obj\Debug\WPFProject_MarkupCompile.lref
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\WPFProject\obj\Debug\MainWindow.baml
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\WPFProject\obj\Debug\WPFProject.g.resources
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\WPFProject\obj\Debug\WPFProject.Properties.Resources.resources
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\WPFProject\obj\Debug\WPFProject.csproj.GenerateResource.cache
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\WPFProject\obj\Debug\WPFProject.csproj.CoreCompileInputs.cache
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\WPFProject\obj\Debug\WPFProject.csproj.CopyComplete
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\WPFProject\obj\Debug\WPFProject.exe
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\WPFProject\obj\Debug\WPFProject.pdb
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\WPFProject\bin\Debug\BinCalc.dll
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\WPFProject\bin\Debug\WindowsFormsControlLibrary1.dll
+D:\Учёба\4 семестр\ПИС\Лаб 6\Lab6\WPFProject\bin\Debug\WindowsFormsControlLibrary1.pdb
+D:\Прога\ПИС\Laba 6\l6\Lab6\WPFProject\bin\Debug\WPFProject.exe.config
+D:\Прога\ПИС\Laba 6\l6\Lab6\WPFProject\bin\Debug\WPFProject.exe
+D:\Прога\ПИС\Laba 6\l6\Lab6\WPFProject\bin\Debug\WPFProject.pdb
+D:\Прога\ПИС\Laba 6\l6\Lab6\WPFProject\bin\Debug\BinCalc.dll
+D:\Прога\ПИС\Laba 6\l6\Lab6\WPFProject\bin\Debug\CalcLibrary.dll
+D:\Прога\ПИС\Laba 6\l6\Lab6\WPFProject\bin\Debug\CalcLibrary.pdb
+D:\Прога\ПИС\Laba 6\l6\Lab6\WPFProject\obj\Debug\WPFProject.csproj.AssemblyReference.cache
+D:\Прога\ПИС\Laba 6\l6\Lab6\WPFProject\obj\Debug\WPFProject.csproj.SuggestedBindingRedirects.cache
+D:\Прога\ПИС\Laba 6\l6\Lab6\WPFProject\obj\Debug\MainWindow.g.cs
+D:\Прога\ПИС\Laba 6\l6\Lab6\WPFProject\obj\Debug\App.g.cs
+D:\Прога\ПИС\Laba 6\l6\Lab6\WPFProject\obj\Debug\WPFProject_MarkupCompile.cache
+D:\Прога\ПИС\Laba 6\l6\Lab6\WPFProject\obj\Debug\WPFProject_MarkupCompile.lref
+D:\Прога\ПИС\Laba 6\l6\Lab6\WPFProject\obj\Debug\MainWindow.baml
+D:\Прога\ПИС\Laba 6\l6\Lab6\WPFProject\obj\Debug\WPFProject.g.resources
+D:\Прога\ПИС\Laba 6\l6\Lab6\WPFProject\obj\Debug\WPFProject.Properties.Resources.resources
+D:\Прога\ПИС\Laba 6\l6\Lab6\WPFProject\obj\Debug\WPFProject.csproj.GenerateResource.cache
+D:\Прога\ПИС\Laba 6\l6\Lab6\WPFProject\obj\Debug\WPFProject.csproj.CoreCompileInputs.cache
+D:\Прога\ПИС\Laba 6\l6\Lab6\WPFProject\obj\Debug\WPFProject.csproj.CopyComplete
+D:\Прога\ПИС\Laba 6\l6\Lab6\WPFProject\obj\Debug\WPFProject.exe
+D:\Прога\ПИС\Laba 6\l6\Lab6\WPFProject\obj\Debug\WPFProject.pdb
+C:\Users\Егор\Desktop\l6\Lab6\WPFProject\bin\Debug\WPFProject.exe.config
+C:\Users\Егор\Desktop\l6\Lab6\WPFProject\bin\Debug\WPFProject.exe
+C:\Users\Егор\Desktop\l6\Lab6\WPFProject\bin\Debug\WPFProject.pdb
+C:\Users\Егор\Desktop\l6\Lab6\WPFProject\bin\Debug\BinCalc.dll
+C:\Users\Егор\Desktop\l6\Lab6\WPFProject\bin\Debug\CalcLibrary.dll
+C:\Users\Егор\Desktop\l6\Lab6\WPFProject\bin\Debug\CalcLibrary.pdb
+C:\Users\Егор\Desktop\l6\Lab6\WPFProject\obj\Debug\WPFProject.csproj.AssemblyReference.cache
+C:\Users\Егор\Desktop\l6\Lab6\WPFProject\obj\Debug\WPFProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Егор\Desktop\l6\Lab6\WPFProject\obj\Debug\MainWindow.g.cs
+C:\Users\Егор\Desktop\l6\Lab6\WPFProject\obj\Debug\App.g.cs
+C:\Users\Егор\Desktop\l6\Lab6\WPFProject\obj\Debug\WPFProject_MarkupCompile.cache
+C:\Users\Егор\Desktop\l6\Lab6\WPFProject\obj\Debug\WPFProject_MarkupCompile.lref
+C:\Users\Егор\Desktop\l6\Lab6\WPFProject\obj\Debug\MainWindow.baml
+C:\Users\Егор\Desktop\l6\Lab6\WPFProject\obj\Debug\WPFProject.g.resources
+C:\Users\Егор\Desktop\l6\Lab6\WPFProject\obj\Debug\WPFProject.Properties.Resources.resources
+C:\Users\Егор\Desktop\l6\Lab6\WPFProject\obj\Debug\WPFProject.csproj.GenerateResource.cache
+C:\Users\Егор\Desktop\l6\Lab6\WPFProject\obj\Debug\WPFProject.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\l6\Lab6\WPFProject\obj\Debug\WPFProject.csproj.CopyComplete
+C:\Users\Егор\Desktop\l6\Lab6\WPFProject\obj\Debug\WPFProject.exe
+C:\Users\Егор\Desktop\l6\Lab6\WPFProject\obj\Debug\WPFProject.pdb
+D:\Учёба\4 семестр\ПИС\Лаб 6\WPFProject\bin\Debug\WPFProject.exe.config
+D:\Учёба\4 семестр\ПИС\Лаб 6\WPFProject\bin\Debug\WPFProject.exe
+D:\Учёба\4 семестр\ПИС\Лаб 6\WPFProject\bin\Debug\WPFProject.pdb
+D:\Учёба\4 семестр\ПИС\Лаб 6\WPFProject\bin\Debug\BinCalc.dll
+D:\Учёба\4 семестр\ПИС\Лаб 6\WPFProject\bin\Debug\CalcLibrary.dll
+D:\Учёба\4 семестр\ПИС\Лаб 6\WPFProject\bin\Debug\CalcLibrary.pdb
+D:\Учёба\4 семестр\ПИС\Лаб 6\WPFProject\obj\Debug\WPFProject.csproj.AssemblyReference.cache
+D:\Учёба\4 семестр\ПИС\Лаб 6\WPFProject\obj\Debug\WPFProject.csproj.SuggestedBindingRedirects.cache
+D:\Учёба\4 семестр\ПИС\Лаб 6\WPFProject\obj\Debug\MainWindow.g.cs
+D:\Учёба\4 семестр\ПИС\Лаб 6\WPFProject\obj\Debug\App.g.cs
+D:\Учёба\4 семестр\ПИС\Лаб 6\WPFProject\obj\Debug\WPFProject_MarkupCompile.cache
+D:\Учёба\4 семестр\ПИС\Лаб 6\WPFProject\obj\Debug\WPFProject_MarkupCompile.lref
+D:\Учёба\4 семестр\ПИС\Лаб 6\WPFProject\obj\Debug\MainWindow.baml
+D:\Учёба\4 семестр\ПИС\Лаб 6\WPFProject\obj\Debug\WPFProject.g.resources
+D:\Учёба\4 семестр\ПИС\Лаб 6\WPFProject\obj\Debug\WPFProject.Properties.Resources.resources
+D:\Учёба\4 семестр\ПИС\Лаб 6\WPFProject\obj\Debug\WPFProject.csproj.GenerateResource.cache
+D:\Учёба\4 семестр\ПИС\Лаб 6\WPFProject\obj\Debug\WPFProject.csproj.CoreCompileInputs.cache
+D:\Учёба\4 семестр\ПИС\Лаб 6\WPFProject\obj\Debug\WPFProject.csproj.CopyComplete
+D:\Учёба\4 семестр\ПИС\Лаб 6\WPFProject\obj\Debug\WPFProject.exe
+D:\Учёба\4 семестр\ПИС\Лаб 6\WPFProject\obj\Debug\WPFProject.pdb
+C:\Users\Егор\Desktop\Лаб 6\WPFProject\bin\Debug\WPFProject.exe.config
+C:\Users\Егор\Desktop\Лаб 6\WPFProject\bin\Debug\WPFProject.exe
+C:\Users\Егор\Desktop\Лаб 6\WPFProject\bin\Debug\WPFProject.pdb
+C:\Users\Егор\Desktop\Лаб 6\WPFProject\bin\Debug\BinCalc.dll
+C:\Users\Егор\Desktop\Лаб 6\WPFProject\bin\Debug\CalcLibrary.dll
+C:\Users\Егор\Desktop\Лаб 6\WPFProject\bin\Debug\CalcLibrary.pdb
+C:\Users\Егор\Desktop\Лаб 6\WPFProject\obj\Debug\WPFProject.csproj.AssemblyReference.cache
+C:\Users\Егор\Desktop\Лаб 6\WPFProject\obj\Debug\WPFProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Егор\Desktop\Лаб 6\WPFProject\obj\Debug\MainWindow.g.cs
+C:\Users\Егор\Desktop\Лаб 6\WPFProject\obj\Debug\App.g.cs
+C:\Users\Егор\Desktop\Лаб 6\WPFProject\obj\Debug\WPFProject_MarkupCompile.cache
+C:\Users\Егор\Desktop\Лаб 6\WPFProject\obj\Debug\WPFProject_MarkupCompile.lref
+C:\Users\Егор\Desktop\Лаб 6\WPFProject\obj\Debug\MainWindow.baml
+C:\Users\Егор\Desktop\Лаб 6\WPFProject\obj\Debug\WPFProject.g.resources
+C:\Users\Егор\Desktop\Лаб 6\WPFProject\obj\Debug\WPFProject.Properties.Resources.resources
+C:\Users\Егор\Desktop\Лаб 6\WPFProject\obj\Debug\WPFProject.csproj.GenerateResource.cache
+C:\Users\Егор\Desktop\Лаб 6\WPFProject\obj\Debug\WPFProject.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\Лаб 6\WPFProject\obj\Debug\WPFProject.csproj.CopyComplete
+C:\Users\Егор\Desktop\Лаб 6\WPFProject\obj\Debug\WPFProject.exe
+C:\Users\Егор\Desktop\Лаб 6\WPFProject\obj\Debug\WPFProject.pdb
+D:\пис\6\WPFProject\bin\Debug\WPFProject.exe.config
+D:\пис\6\WPFProject\bin\Debug\WPFProject.exe
+D:\пис\6\WPFProject\bin\Debug\WPFProject.pdb
+D:\пис\6\WPFProject\bin\Debug\BinCalc.dll
+D:\пис\6\WPFProject\bin\Debug\CalcLibrary.dll
+D:\пис\6\WPFProject\bin\Debug\CalcLibrary.pdb
+D:\пис\6\WPFProject\obj\Debug\WPFProject.csproj.AssemblyReference.cache
+D:\пис\6\WPFProject\obj\Debug\MainWindow.g.cs
+D:\пис\6\WPFProject\obj\Debug\App.g.cs
+D:\пис\6\WPFProject\obj\Debug\WPFProject_MarkupCompile.cache
+D:\пис\6\WPFProject\obj\Debug\WPFProject_MarkupCompile.lref
+D:\пис\6\WPFProject\obj\Debug\MainWindow.baml
+D:\пис\6\WPFProject\obj\Debug\WPFProject.g.resources
+D:\пис\6\WPFProject\obj\Debug\WPFProject.Properties.Resources.resources
+D:\пис\6\WPFProject\obj\Debug\WPFProject.csproj.GenerateResource.cache
+D:\пис\6\WPFProject\obj\Debug\WPFProject.csproj.CoreCompileInputs.cache
+D:\пис\6\WPFProject\obj\Debug\WPFProject.csproj.CopyComplete
+D:\пис\6\WPFProject\obj\Debug\WPFProject.exe
+D:\пис\6\WPFProject\obj\Debug\WPFProject.pdb
+E:\пис\6\WPFProject\bin\Debug\WPFProject.exe.config
+E:\пис\6\WPFProject\bin\Debug\WPFProject.exe
+E:\пис\6\WPFProject\bin\Debug\WPFProject.pdb
+E:\пис\6\WPFProject\bin\Debug\CalcLibrary.dll
+E:\пис\6\WPFProject\bin\Debug\CalcLibrary.pdb
+E:\пис\6\WPFProject\obj\Debug\WPFProject.csproj.AssemblyReference.cache
+E:\пис\6\WPFProject\obj\Debug\MainWindow.g.cs
+E:\пис\6\WPFProject\obj\Debug\App.g.cs
+E:\пис\6\WPFProject\obj\Debug\WPFProject_MarkupCompile.cache
+E:\пис\6\WPFProject\obj\Debug\WPFProject_MarkupCompile.lref
+E:\пис\6\WPFProject\obj\Debug\MainWindow.baml
+E:\пис\6\WPFProject\obj\Debug\WPFProject.g.resources
+E:\пис\6\WPFProject\obj\Debug\WPFProject.Properties.Resources.resources
+E:\пис\6\WPFProject\obj\Debug\WPFProject.csproj.GenerateResource.cache
+E:\пис\6\WPFProject\obj\Debug\WPFProject.csproj.CoreCompileInputs.cache
+E:\пис\6\WPFProject\obj\Debug\WPFProject.csproj.CopyComplete
+E:\пис\6\WPFProject\obj\Debug\WPFProject.exe
+E:\пис\6\WPFProject\obj\Debug\WPFProject.pdb
+E:\пис\6\WPFProject\bin\Debug\WPFProject.xml
+E:\пис\6\WPFProject\bin\Debug\CalcLibrary.xml
+D:\2 курс\пис\6\WPFProject\bin\Debug\WPFProject.exe.config
+D:\2 курс\пис\6\WPFProject\bin\Debug\WPFProject.xml
+D:\2 курс\пис\6\WPFProject\bin\Debug\WPFProject.exe
+D:\2 курс\пис\6\WPFProject\bin\Debug\WPFProject.pdb
+D:\2 курс\пис\6\WPFProject\bin\Debug\CalcLibrary.dll
+D:\2 курс\пис\6\WPFProject\bin\Debug\CalcLibrary.pdb
+D:\2 курс\пис\6\WPFProject\bin\Debug\CalcLibrary.xml
+D:\2 курс\пис\6\WPFProject\obj\Debug\WPFProject.csproj.AssemblyReference.cache
+D:\2 курс\пис\6\WPFProject\obj\Debug\WPFProject.csproj.SuggestedBindingRedirects.cache
+D:\2 курс\пис\6\WPFProject\obj\Debug\MainWindow.g.cs
+D:\2 курс\пис\6\WPFProject\obj\Debug\App.g.cs
+D:\2 курс\пис\6\WPFProject\obj\Debug\WPFProject_MarkupCompile.cache
+D:\2 курс\пис\6\WPFProject\obj\Debug\WPFProject_MarkupCompile.lref
+D:\2 курс\пис\6\WPFProject\obj\Debug\MainWindow.baml
+D:\2 курс\пис\6\WPFProject\obj\Debug\WPFProject.g.resources
+D:\2 курс\пис\6\WPFProject\obj\Debug\WPFProject.Properties.Resources.resources
+D:\2 курс\пис\6\WPFProject\obj\Debug\WPFProject.csproj.GenerateResource.cache
+D:\2 курс\пис\6\WPFProject\obj\Debug\WPFProject.csproj.CoreCompileInputs.cache
+D:\2 курс\пис\6\WPFProject\obj\Debug\WPFProject.csproj.CopyComplete
+D:\2 курс\пис\6\WPFProject\obj\Debug\WPFProject.exe
+D:\2 курс\пис\6\WPFProject\obj\Debug\WPFProject.pdb

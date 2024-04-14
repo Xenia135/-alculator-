@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CalcLibrary</name>
+    </assembly>
+    <members>
+        <member name="M:CalcLibrary.Calc.DoOperation(System.String)">
+            <summary>
+            Получение результата бинарной операции
+            </summary>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CalcLibrary.Calc.GetOperands(System.String)">
+            <summary>
+            получение операндов
+            </summary>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CalcLibrary.Calc.GetOperation(System.String)">
+            <summary>
+            получение операции
+            </summary>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+        <member name="F:CalcLibrary.Calc.DoubleOperation">
+            <summary>
+            Словарь
+            </summary>
+        </member>
+        <member name="M:CalcLibrary.Calc.Factorial(System.String)">
+            <summary>
+            Нахождение факториала
+            </summary>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CalcLibrary.Calc.Negative(System.String)">
+            <summary>
+            Нахождение +, -
+            </summary>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CalcLibrary.Calc.SQRT(System.String)">
+            <summary>
+            Нахождение корня
+            </summary>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CalcLibrary.Calc.SQR(System.String)">
+            <summary>
+            Нахождение квадрата
+            </summary>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CalcLibrary.Calc.Cos(System.String)">
+            <summary>
+            Нахождение cos
+            </summary>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CalcLibrary.Calc.Sin(System.String)">
+            <summary>
+            Нахождение sin
+            </summary>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CalcLibrary.Calc.Tg(System.String)">
+            <summary>
+            Нахождение tg
+            </summary>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CalcLibrary.Calc.Ex(System.String)">
+            <summary>
+            Нахождение e в степени х
+            </summary>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CalcLibrary.Calc.DelX(System.String)">
+            <summary>
+            Нахождение 1/x
+            </summary>
+            <param name="s"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
